@@ -1,109 +1,124 @@
 {
-    "Version": "49",
-    "ReleaseNotes": "ðŸ‡¸ðŸ‡»âœ… Nueva actualizaciÃ³n POR FAVOR ENVIAR CAPTURA DE AGRADECIMIENTO ATENTAMENTE https://t.me/kevin120k",
-    "Sms": "https://webcont.x10.mx/update/AXE3f/sms",
-    "UrlUpdate": "https://webcont.x10.mx/update/AXE3f/config",
-    "EmailFeedback": "",
-    "UrlContato": "https://t.me/kevin120k",
-    "videoUrl": "",
-    "logoonline": "",
-    "fundoonline": "",
-    "fundoDoLogOnline": "",
-    "rodapeonline": "",
-    "UrlTermos": "https://t.me/kevin120k",
-    "CheckUser": "true",
-    "Udp": [
+  "Version": "1.0.0",
+  "ReleaseNotes": "CHARLIS LTE",
+  "UrlUpdate": "",
+  "Sms": "",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7300"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "Charlis VIVA.1",
+      "TYPE": "premium",
+      "FLAG": "do.png",
+      "ServerIP": "internetmovil.viva.com.do.diablo2024.duckdns.org",
+      "CheckUser": "",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "alex",
+      "PASS": "@Diablo666"
+    },
+   {
+"Name": "Charlis CLARO",
+    "TYPE": "premium",
+    "FLAG": "do1.png",
+    "ServerIP": "162.159.130.11",
+    "CheckUser": "",
+    "ServerPort": "22",
+    "SSLPort": "443",
+    "USER": "kevin29",
+    "PASS": "1234"
+    },
         {
-            "Porta": "7300"
+            "Name": "🇩🇴CLARO y ALTICE REDES🇩🇴",
+            
+              "FLAG": "do1.png",
+    "ServerIP": "162.159.130.11",
+    "CheckUser": "",
+    "ServerPort": "80",
+    "SSLPort": "443",
+    "USER": "Jotchuas",
+    "PASS": "Jotchuas"
+            
+        },
+        {
+            "Name": "🇩🇴CLARO y ALTICE REDES1🇩🇴",
+            "FLAG": "ka",
+            "ServerIP": "investors.spotify.com",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "ProxyIP": "SSLPAY",
+            "ProxyPort": "8080",
+            "ServerUser": "raton",
+            "ServerPass": "@28345242",
+            "Payload": "GET wss://danger.patronvpscolombia.online/ HTTP/1.1[crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf][crlf]\b\b\b\b\b\b\b\b",
+            "SNI": "danger.patronvpscolombia.online",
+            "Slowchave": "",
+            "Nameserver": "",
+            "Slowdns": "",
+            "isMinfo": "🔥free🔥",
+            "isSSL": "false",
+            "isPayloadSSL": "true",
+            "isSlow": "false",
+            "isInject": "false",
+            "isDirect": "false",
+            "sPais": "",
+            "isCustomServer": "false",
+            "UdpBuffer": "",
+            "UdpDown": "",
+            "UdpUp": "",
+            "isUdp": "false",
+            "isV2ray": "false",
+            "isV2rayTLS": "false",
+            "V2rayConfig": ""
         }
-    ],
-    "UdpPort": "7300",
-    "Servers": [
-        {
-            "Name": "Claro sv redes sv ðŸ‡¸ðŸ‡»",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "engineering.giphy.com",
-            "CheckUser": "http://",
-            "ServerPort": "22",
-            "SSLPort": "80",
-            "USER": "kevin29",
-            "PASS": "1234"
-        },
-        {
-            "Name": "Tigo sv congelamegas ",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "lg.chivo2.com",
-            "CheckUser": "http://",
-            "ServerPort": "22",
-            "SSLPort": "80",
-            "USER": "kevin29",
-            "PASS": "1234"
-        },
-        {
-            "Name": "Tigo sv ðŸ‡¸ðŸ‡»",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "172.67.22.228",
-            "CheckUser": "http://",
-            "ServerPort": "22",
-            "SSLPort": "80",
-            "USER": "kevin29",
-            "PASS": "1234"
-        },
-        {
-            "Name": "Claro gt IMS ðŸ‡¬ðŸ‡¹",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "172.233.190.137",
-            "CheckUser": "http://",
-            "ServerPort": "22",
-            "SSLPort": "80",
-            "USER": "kevin29",
-            "PASS": "1234"
-        }
-    ],
-    "Networks": [
-        {
-            "Name": "claro redes sv ðŸ‡¸ðŸ‡»",
-            "FLAG": "claro",
-            "Payload": "GET / HTTP/1.1[crlf]Host:kevin.120k.store[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "engineering.giphy.com",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "80",
-            "Info": "Direct"
-        },
-        {
-            "Name": "Tigo sv congelamegas ",
-            "FLAG": "claro",
-            "Payload": "GET / HTTP/1.1[crlf]Host: kevin.120k.store[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "lg.chivo2.com",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "80",
-            "Info": "Direct"
-        },
-        {
-            "Name": "Tigo sv ðŸ‡¸ðŸ‡»",
-            "FLAG": "claro",
-            "Payload": "GET / HTTP/1.1[crlf]Host:kevin.120k.store[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "172.67.22.228",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "80",
-            "Info": "Direct"
-        },
-        {
-            "Name": "Claro gt IMS ðŸ‡¬ðŸ‡¹",
-            "FLAG": "claro",
-            "Payload": "HTTP/1.1[crlf]Host: legacy.axparis.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: 172.233.190.137[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "172.233.190.137",
-            "TlsIP": "",
-            "ProxyIP": "172.233.190.137",
-            "ProxyPort": "80",
-            "Info": "Direct"
-        }
-    ]
+  ],
+  "Networks": [
+   {
+      "Name": "Charlis VIVA.1 ",
+      "FLAG": "Claro",
+      "Payload": "GET https://internetmovil.viva.com.do HTTP/1.1[cr]Host: internetmovil.viva.com.do[cr]Connection:keep-alive[cr]Proxy-Connection: keep-alive[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "internetmovil.viva.com.do.diablo2024.duckdns.org",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+   {
+"Name": "Charlis CLARO",
+    "FLAG": "Claro",
+   "Payload": "GET / HTTP/1.1[crlf]Host:kevin.120k.store[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "162.159.130.11",
+    "ProxyPort": "80",
+    "Info": "Direct"
+    },
+   {
+      "Name": "Charlis CLARO speed tunel ",
+      "FLAG": "Claro",
+      "Payload": "GET  HTTP1.1[crlf]Host: msy.msyvpn.online[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "msy.msyvpn.online",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+   {
+      "Name": "Charlis CLARO speed tunel 1",
+      "FLAG": "Claro",
+      "Payload": "GET wss://danger.patronvpscolombia.online/ HTTP/1.1[crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf][crlf]\b\b\b\b\b\b\b\b",
+      "SNI": "danger.patronvpscolombia.online",
+      "TlsIP": "",
+      "ProxyIP": "SSLPAY",
+      "ProxyPort": "8080",
+      "Info": "Direct"
+    }
+  ]
 }
