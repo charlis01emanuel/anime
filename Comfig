@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.4",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -25,15 +25,15 @@
       "PASS": "@Diablo666"
     },
    {
-"Name": "Charlis CLARO",
-    "TYPE": "premium",
-    "FLAG": "do1.png",
-    "ServerIP": "162.159.130.11",
-    "CheckUser": "",
-    "ServerPort": "22",
-    "SSLPort": "443",
-    "USER": "kevin",
-    "PASS": "1234"
+ "Name": "Charlis CLARO",
+            "TYPE": "premium",
+            "FLAG": "do1.png",
+            "ServerIP": "162.159.130.11",
+            "CheckUser": "http://",
+            "ServerPort": "443",
+            "SSLPort": "80",
+            "USER": "calidad",
+            "PASS": "latam"
     },
         {
             "Name": "🇩🇴CLARO y ALTICE REDES🇩🇴",
@@ -91,14 +91,14 @@
       "Info": "Direct"
     },
    {
-"Name": "Charlis CLARO",
-    "FLAG": "Claro",
-   "Payload": "GET / HTTP/1.1[crlf]Host: 120kvps.lacasitamx.cloud[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-    "SNI": "",
-    "TlsIP": "",
-    "ProxyIP": "162.159.130.11",
-    "ProxyPort": "80",
-    "Info": "Direct"
+   "Name": "Charlis claro",
+            "FLAG": "claro",
+            "Payload": "GET wss:\/\/danger.patronvpscolombia.online\/ HTTP\/1.1[crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "danger.patronvpscolombia.online",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "80",
+            "Info": "Direct"
     },
    {
       "Name": "Charlis CLARO speed tunel ",
