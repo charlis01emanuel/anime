@@ -16,7 +16,7 @@
     {
       "Name": "Charlis VIVA.1",
       "TYPE": "premium",
-      "FLAG": "do.png",
+      "FLAG": "do1.png",
       "ServerIP": "internetmovil.viva.com.do.diablo2024.duckdns.org",
       "CheckUser": "",
       "ServerPort": "80",
@@ -82,7 +82,7 @@
   "Networks": [
    {
       "Name": "Charlis VIVA.1 ",
-      "FLAG": "Claro",
+      "FLAG": "do1.png",
       "Payload": "GET https://internetmovil.viva.com.do HTTP/1.1[cr]Host: internetmovil.viva.com.do[cr]Connection:keep-alive[cr]Proxy-Connection: keep-alive[crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -92,7 +92,7 @@
     },
    {
    "Name": "Charlis claro",
-            "FLAG": "claro",
+            "FLAG": "do1.png",
             "Payload": "GET wss:\/\/danger.patronvpscolombia.online\/ HTTP\/1.1[crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "danger.patronvpscolombia.online",
             "TlsIP": "",
