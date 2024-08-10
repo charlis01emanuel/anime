@@ -23,6 +23,17 @@
     "SSLPort": "443",
     "USER": "fastssh.com-klkmomo",
     "PASS": "12345678"
+    },
+{
+ "Name": "Charlis CLARO REDES 2 🇩🇴",
+     "TYPE": "premium",
+      "FLAG": "do1.png",
+    "ServerIP": "investors.spotify.com",
+    "CheckUser": "http://",
+    "ServerPort": "22",
+    "SSLPort": "443",
+    "USER": "sshocean-marinopese",
+    "PASS": "12345678"
     }
   ],
   "Networks": [
@@ -31,6 +42,16 @@
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "us1.sshws.net",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+{
+       "Name": "Charlis CLARO REDES 2 🇩🇴",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: at1.wscom.pro[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "at1.wscom.pro",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
