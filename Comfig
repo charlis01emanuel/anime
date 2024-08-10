@@ -13,112 +13,26 @@
     }
   ],
   "Servers": [
-    {
-      "Name": "Charlis VIVA 🇩🇴",
-      "TYPE": "premium",
-      "FLAG": "do1.png",
-      "ServerIP": "internetmovil.viva.com.do.diablo2024.duckdns.org",
-      "CheckUser": "",
-      "ServerPort": "80",
-      "SSLPort": "443",
-      "USER": "alex",
-      "PASS": "@Diablo666"
-    },
-   {
+     {
  "Name": "Charlis CLARO REDES 🇩🇴",
-            "TYPE": "premium",
-            "FLAG": "do1.png",
-            "ServerIP": "162.159.130.11",
-            "CheckUser": "http://",
-            "ServerPort": "443",
-            "SSLPort": "80",
-            "USER": "calidad",
-            "PASS": "latam"
-    },
-        {
-            "Name": "🇩🇴CLARO y ALTICE REDES🇩🇴",
-            
-              "FLAG": "do1.png",
-    "ServerIP": "162.159.130.11",
-    "CheckUser": "",
-    "ServerPort": "80",
+     "TYPE": "premium",
+    "FLAG": "re",
+    "ServerIP": "investors.spotify.com",
+    "CheckUser": "http://",
+    "ServerPort": "22",
     "SSLPort": "443",
-    "USER": "Jotchuas",
-    "PASS": "Jotchuas"
-            
-        },
-        {
-            "Name": "🇩🇴CLARO y ALTICE REDES1🇩🇴",
-            "FLAG": "ka",
-            "ServerIP": "investors.spotify.com",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "ProxyIP": "SSLPAY",
-            "ProxyPort": "8080",
-            "ServerUser": "raton",
-            "ServerPass": "@28345242",
-            "Payload": "GET wss://danger.patronvpscolombia.online/ HTTP/1.1[crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf][crlf]\b\b\b\b\b\b\b\b",
-            "SNI": "danger.patronvpscolombia.online",
-            "Slowchave": "",
-            "Nameserver": "",
-            "Slowdns": "",
-            "isMinfo": "🔥free🔥",
-            "isSSL": "false",
-            "isPayloadSSL": "true",
-            "isSlow": "false",
-            "isInject": "false",
-            "isDirect": "false",
-            "sPais": "",
-            "isCustomServer": "false",
-            "UdpBuffer": "",
-            "UdpDown": "",
-            "UdpUp": "",
-            "isUdp": "false",
-            "isV2ray": "false",
-            "isV2rayTLS": "false",
-            "V2rayConfig": ""
-        }
+    "USER": "fastssh.com-klkmomo",
+    "PASS": "12345678"
+    }
   ],
   "Networks": [
    {
-      "Name": "Charlis VIVA.1 ",
-      "FLAG": "do1.png",
-      "Payload": "GET https://internetmovil.viva.com.do HTTP/1.1[cr]Host: internetmovil.viva.com.do[cr]Connection:keep-alive[cr]Proxy-Connection: keep-alive[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "internetmovil.viva.com.do.diablo2024.duckdns.org",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-   {
-   "Name": "Charlis claro",
-            "FLAG": "do1.png",
-            "Payload": "GET wss:\/\/danger.patronvpscolombia.online\/ HTTP\/1.1[crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "danger.patronvpscolombia.online",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "80",
-            "Info": "Direct"
-    },
-   {
-      "Name": "Charlis CLARO speed tunel ",
+       "Name": "Charlis CLARO REDES 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET  HTTP1.1[crlf]Host: msy.msyvpn.online[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "msy.msyvpn.online",
+      "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "us1.sshws.net",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Direct"
-    },
-   {
-      "Name": "Charlis CLARO speed tunel 1",
-      "FLAG": "Claro",
-      "Payload": "GET wss://danger.patronvpscolombia.online/ HTTP/1.1[crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf][crlf]\b\b\b\b\b\b\b\b",
-      "SNI": "danger.patronvpscolombia.online",
-      "TlsIP": "",
-      "ProxyIP": "SSLPAY",
-      "ProxyPort": "8080",
-      "Info": "Direct"
     }
-  ]
-}
