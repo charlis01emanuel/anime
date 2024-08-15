@@ -1,5 +1,5 @@
 {
-  "Version": "2.1.0",
+  "Version": "2.1.1",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -32,7 +32,7 @@
     "CheckUser": "http://",
     "ServerPort": "22",
     "SSLPort": "443",
-    "USER": "sshocean-marinopese",
+    "USER": "fastssh.com-pedro22",
     "PASS": "12345678"
     },
 {
@@ -72,8 +72,8 @@
 {
        "Name": "Charlis CLARO REDES 7 dia 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: at1.wscom.pro[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "at1.wscom.pro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ssh-mm2-ws.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ssh-mm2-ws.sshws.net",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
