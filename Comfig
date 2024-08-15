@@ -1,5 +1,5 @@
 {
-  "Version": "2.1.1",
+  "Version": "2.1.2",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -36,14 +36,14 @@
     "PASS": "12345678"
     },
 {
- "Name": "Charlis CLARO REDES 30 dia🇩🇴",
+ "Name": "Charlis CLARO REDES 7 dia🇩🇴",
      "TYPE": "premium",
       "FLAG": "do1.png",
     "ServerIP": "investors.spotify.com",
     "CheckUser": "http://",
     "ServerPort": "22",
     "SSLPort": "443",
-    "USER": "lionssh_rhuzxga",
+    "USER": "sshocean-miguel80",
     "PASS": "12345678"
     },
 {
@@ -83,8 +83,8 @@
 {
        "Name": "Charlis claro rd 30 dia 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: us.servergo.pw[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "us.servergo.pw",
+      "Payload": "GET / HTTP/1.1[crlf]Host: at1.wscom.pro[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "at1.wscom.pro",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
