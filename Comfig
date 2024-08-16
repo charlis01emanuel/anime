@@ -62,7 +62,7 @@
       "TYPE": "premium",
       "FLAG": "trojan.png",
       "ServerIP": "id1.trojanvpn.de",  
-      "CheckUser": "",
+      "CheckUser": "http://",
       "ServerPort": "80",  
       "SSLPort": "443",  
       "USER": "",
