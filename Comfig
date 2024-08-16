@@ -1,5 +1,5 @@
 {
-  "Version": "2.1.5",
+  "Version": "2.1.6",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -114,7 +114,8 @@
     },{
 "Name": "TROJAN_NETWORK_2",
       "FLAG": "trojan",
-      "Payload": "GET /websocket HTTP/1.1\nHost: ust-2.optnl.com\nUpgrade: ws\n\n",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ust-2.optnl.com[crlf]Upgrade: websocket[crlf][crlf]
+",
       "SNI": "www.speedtest.net",
       "TlsIP": "ust-2.optnl.com",
       "ProxyIP": "",
