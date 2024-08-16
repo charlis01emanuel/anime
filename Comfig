@@ -112,10 +112,9 @@
       "ProxyPort": "80",
       "Info": "Direct"
     },{
-"Name": "TROJAN_NETWORK_2",
+"Name": "TROJAN_NETWORK",
       "FLAG": "trojan",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ust-2.optnl.com[crlf]Upgrade: websocket[crlf][crlf]
-",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ust-2.optnl.com[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "www.speedtest.net",
       "TlsIP": "ust-2.optnl.com",
       "ProxyIP": "",
