@@ -110,7 +110,7 @@
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Direct"
-    },
+    },{
 
       "Name": "TROJAN_NETWORK",
       "FLAG": "trojan",
