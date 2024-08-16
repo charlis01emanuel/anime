@@ -61,12 +61,12 @@
       "Name": "TROJAN_SERVER",
       "TYPE": "premium",
       "FLAG": "trojan.png",
-      "ServerIP": "id1.trojanvpn.de",  // Dirección del servidor
+      "ServerIP": "id1.trojanvpn.de",  
       "CheckUser": "",
-      "ServerPort": "80",  // Puerto sin TLS si es necesario
-      "SSLPort": "443",  // Puerto para TLS
+      "ServerPort": "80",  
+      "SSLPort": "443",  
       "USER": "",
-      "PASS": "5433e00f-043d-4fbd-9756-2f3a9538938e"  // Contraseña para el protocolo Trojan
+      "PASS": "5433e00f-043d-4fbd-9756-2f3a9538938e" 
     }
   ],
   "Networks": [
@@ -114,9 +114,9 @@
 
       "Name": "TROJAN_NETWORK",
       "FLAG": "trojan",
-      "Payload": "GET /websocket HTTP/1.1\nHost: id1.trojanvpn.de\nUpgrade: ws\n\n",  // Payload usando el path y Host
-      "SNI": "www.speedtest.net",  // Nombre del servidor SNI (TLS)
-      "TlsIP": "id1.trojanvpn.de",  // Dirección IP/TLS del servidor
+      "Payload": "GET /websocket HTTP/1.1\nHost: id1.trojanvpn.de\nUpgrade: ws\n\n",  
+      "SNI": "www.speedtest.net",  
+      "TlsIP": "id1.trojanvpn.de",  
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
