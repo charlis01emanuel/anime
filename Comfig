@@ -21,8 +21,8 @@
     "CheckUser": "http://",
     "ServerPort": "22",
     "SSLPort": "443",
-    "USER": "fastssh.com-klkmomo",
-    "PASS": "12345678"
+    "USER": "fastssh.com-popo",
+    "PASS": "tupopo"
     },
 {
  "Name": "Charlis CLARO REDES 7 dia🇩🇴",
@@ -74,7 +74,7 @@
    {
        "Name": "Charlis CLARO REDES 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "us1.sshws.net",
       "TlsIP": "",
       "ProxyIP": "",
