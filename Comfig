@@ -25,7 +25,7 @@
       "PASS": "tupopo"
     },
     {
-      "Name": "Charlis CLARO 2 REDES 7 dia 🇩🇴",
+      "Name": "Charlis CLARO 2 REDES 7 dias 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do1.png",
       "ServerIP": "investors.spotify.com",
@@ -36,7 +36,7 @@
       "PASS": "12345678"
     },
     {
-      "Name": "Charlis CLARO 3 REDES 7 dia 🇩🇴",
+      "Name": "Charlis CLARO 3 REDES 7 dias 🇩🇴",
       "TYPE": "premium",
       "FLAG": "re.png",
       "ServerIP": "investors.spotify.com",
@@ -58,7 +58,7 @@
       "PASS": "tupapa"
     },
     {
-      "Name": "orange 1 🇩🇴",
+      "Name": "Orange 1 🇩🇴",
       "TYPE": "premium",
       "FLAG": "a.png",
       "ServerIP": "198.98.61.84",
@@ -67,8 +67,9 @@
       "SSLPort": "443",
       "USER": "opentunnel.net-prueba9",
       "PASS": "123456u8"
-    },{
-      "Name": "orange 2 papu 🇩🇴",
+    },
+    {
+      "Name": "Orange 2 papu 🇩🇴",
       "TYPE": "premium",
       "FLAG": "4G.png",
       "ServerIP": "www.speedtest.net",
@@ -91,7 +92,7 @@
       "Info": "Direct"
     },
     {
-      "Name": "Charlis CLARO 2 REDES 7 dia 🇩🇴",
+      "Name": "Charlis CLARO 2 REDES 7 dias 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "us1.sshws.net",
@@ -101,7 +102,7 @@
       "Info": "Direct"
     },
     {
- "Name": "Charlis CLARO 3 REDES 7 dia 🇩🇴",
+      "Name": "Charlis CLARO 3 REDES 7 dias 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: at1.wscom.pro[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "at1.wscom.pro",
@@ -121,16 +122,16 @@
       "Info": "Direct"
     },
     {
-      "Name": "orange 1 🇩🇴",
-      "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host:v2.gliranzo.online[lf]Connection: Upgrade[lf]User-Agent: [lf]Upgrade: websocket[lf][lf]",
+      "Name": "Orange 1 🇩🇴",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host: v2.gliranzo.online[lf]Connection: Upgrade[lf]User-Agent: [lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Direct"
     },
-{
+    {
       "Name": "Orange 2 papu 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host: papu.papuchord.store[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
