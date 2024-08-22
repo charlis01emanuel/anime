@@ -1,5 +1,5 @@
 {
-  "Version": "3.8",
+  "Version": "3.9",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "Charlis CLARO REDES 🇩🇴",
+      "Name": "Charlis CLARO 1 REDES 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do.png",
       "ServerIP": "investors.spotify.com",
@@ -25,7 +25,7 @@
       "PASS": "tupopo"
     },
     {
-      "Name": "Charlis CLARO REDES 7 dia 🇩🇴",
+      "Name": "Charlis CLARO 2 REDES 7 dia 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do1.png",
       "ServerIP": "investors.spotify.com",
@@ -36,7 +36,7 @@
       "PASS": "12345678"
     },
     {
-      "Name": "Charlis CLARO REDES 7 dia 🇩🇴",
+      "Name": "Charlis CLARO 3 REDES 7 dia 🇩🇴",
       "TYPE": "premium",
       "FLAG": "re.png",
       "ServerIP": "investors.spotify.com",
@@ -58,7 +58,7 @@
       "PASS": "tupapa"
     },
     {
-      "Name": "orange",
+      "Name": "orange 1 🇩🇴",
       "TYPE": "premium",
       "FLAG": "a.png",
       "ServerIP": "198.98.61.84",
@@ -68,7 +68,7 @@
       "USER": "opentunnel.net-prueba9",
       "PASS": "123456u8"
     },{
-      "Name": "orange2 papu 🇩🇴",
+      "Name": "orange 2 papu 🇩🇴",
       "TYPE": "premium",
       "FLAG": "4G.png",
       "ServerIP": "www.speedtest.net",
@@ -81,7 +81,7 @@
   ],
   "Networks": [
     {
-      "Name": "Charlis CLARO REDES 🇩🇴",
+      "Name": "Charlis CLARO 1 REDES 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "us1.sshws.net",
@@ -91,7 +91,7 @@
       "Info": "Direct"
     },
     {
-      "Name": "Charlis CLARO REDES 7 dia 🇩🇴",
+      "Name": "Charlis CLARO 2 REDES 7 dia 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "us1.sshws.net",
@@ -101,7 +101,7 @@
       "Info": "Direct"
     },
     {
-      "Name": "Charlis claro rd 30 dia 🇩🇴",
+ "Name": "Charlis CLARO 3 REDES 7 dia 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: at1.wscom.pro[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "at1.wscom.pro",
@@ -121,7 +121,7 @@
       "Info": "Direct"
     },
     {
-      "Name": "orange 🇩🇴",
+      "Name": "orange 1 🇩🇴",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host:v2.gliranzo.online[lf]Connection: Upgrade[lf]User-Agent: [lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
@@ -131,7 +131,7 @@
       "Info": "Direct"
     },
 {
-      "Name": "Orange 1 papu 🇩🇴",
+      "Name": "Orange 2 papu 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host: papu.papuchord.store[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
