@@ -1,5 +1,5 @@
 {
-  "Version": "3",
+  "Version": "3.1",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -13,52 +13,52 @@
     }
   ],
   "Servers": [
-     {
- "Name": "Charlis CLARO REDES 🇩🇴",
-     "TYPE": "premium",
+    {
+      "Name": "Charlis CLARO REDES 🇩🇴",
+      "TYPE": "premium",
       "FLAG": "do.png",
-    "ServerIP": "investors.spotify.com",
-    "CheckUser": "http://",
-    "ServerPort": "22",
-    "SSLPort": "443",
-    "USER": "fastssh.com-popo",
-    "PASS": "tupopo"
+      "ServerIP": "investors.spotify.com",
+      "CheckUser": "http://",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "fastssh.com-popo",
+      "PASS": "tupopo"
     },
-{
- "Name": "Charlis CLARO REDES 7 dia🇩🇴",
-     "TYPE": "premium",
+    {
+      "Name": "Charlis CLARO REDES 7 dia 🇩🇴",
+      "TYPE": "premium",
       "FLAG": "do1.png",
-    "ServerIP": "investors.spotify.com",
-    "CheckUser": "http://",
-    "ServerPort": "22",
-    "SSLPort": "443",
-    "USER": "fastssh.com-kloquo",
-    "PASS": "12345678"
+      "ServerIP": "investors.spotify.com",
+      "CheckUser": "http://",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "fastssh.com-kloquo",
+      "PASS": "12345678"
     },
-{
- "Name": "Charlis CLARO REDES 7 dia🇩🇴",
-     "TYPE": "premium",
+    {
+      "Name": "Charlis CLARO REDES 7 dia 🇩🇴",
+      "TYPE": "premium",
       "FLAG": "do1.png",
-    "ServerIP": "investors.spotify.com",
-    "CheckUser": "http://",
-    "ServerPort": "22",
-    "SSLPort": "443",
-    "USER": "sshocean-miguel80",
-    "PASS": "12345678"
+      "ServerIP": "investors.spotify.com",
+      "CheckUser": "http://",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "sshocean-miguel80",
+      "PASS": "12345678"
     },
-{
- "Name": "Charlis CLARO papu🇩🇴",
-     "TYPE": "premium",
+    {
+      "Name": "Charlis CLARO papu 🇩🇴",
+      "TYPE": "premium",
       "FLAG": "do.png",
-    "ServerIP": "investors.spotify.com",
-    "CheckUser": "http://",
-    "ServerPort": "22",
-    "SSLPort": "443",
-    "USER": "papu",
-    "PASS": "tupapa"
+      "ServerIP": "investors.spotify.com",
+      "CheckUser": "http://",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "papu",
+      "PASS": "tupapa"
     },
-{
-        "Name": "TROJAN_SERVER_2",
+    {
+      "Name": "TROJAN_SERVER_2",
       "TYPE": "premium",
       "FLAG": "trojan.png",
       "ServerIP": "ust-2.optnl.com",
@@ -67,22 +67,11 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": "opentunnel.net-queloco"
- 
     }
   ],
   "Networks": [
-   {
-       "Name": "Charlis CLARO REDES 🇩🇴",
-      "FLAG": "Claro",
-      "Payload": GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "us1.sshws.net",
-      "TlsIP": "",
-      "ProxyIP": "",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-{
-       "Name": "Charlis CLARO REDES 7 dia 🇩🇴",
+    {
+      "Name": "Charlis CLARO REDES 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "us1.sshws.net",
@@ -90,10 +79,19 @@
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Direct"
-    } 
- ,
-{
-       "Name": "Charlis claro rd 30 dia 🇩🇴",
+    },
+    {
+      "Name": "Charlis CLARO REDES 7 dia 🇩🇴",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "us1.sshws.net",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "Charlis claro rd 30 dia 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: at1.wscom.pro[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "at1.wscom.pro",
@@ -101,9 +99,9 @@
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Direct"
-    } ,
-{
-       "Name": "Charlis CLARo papu 🇩🇴",
+    },
+    {
+      "Name": "Charlis CLARO papu 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: papu.papuchord.store[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -111,8 +109,9 @@
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Direct"
-    },{
-"Name": "TROJAN_NETWORK",
+    },
+    {
+      "Name": "TROJAN_NETWORK",
       "FLAG": "trojan",
       "Payload": "GET / HTTP/1.1[crlf]Host: ust-2.optnl.com[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "https://www.speedtest.net",
@@ -121,5 +120,5 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     }
-]
+  ]
 }
