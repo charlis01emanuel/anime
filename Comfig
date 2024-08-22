@@ -1,5 +1,5 @@
 {
-  "Version": "3.6",
+  "Version": "3.7",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -71,7 +71,7 @@
       "Name": "orange2 papu 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do.png",
-      "ServerIP": "https://www.speedtest.net",
+      "ServerIP": "www.speedtest.net",
       "CheckUser": "http://",
       "ServerPort": "80",
       "SSLPort": "443",
@@ -132,7 +132,7 @@
     },{
       "Name": "Charlis orange papu 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: papu.papuchord.store[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host: papu.papuchord.store[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "",
