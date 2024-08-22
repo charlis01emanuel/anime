@@ -1,5 +1,5 @@
 {
-  "Version": "3.7",
+  "Version": "3.8",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -38,7 +38,7 @@
     {
       "Name": "Charlis CLARO REDES 7 dia 🇩🇴",
       "TYPE": "premium",
-      "FLAG": "do1.png",
+      "FLAG": "re.png",
       "ServerIP": "investors.spotify.com",
       "CheckUser": "http://",
       "ServerPort": "22",
@@ -49,7 +49,7 @@
     {
       "Name": "Charlis CLARO papu 🇩🇴",
       "TYPE": "premium",
-      "FLAG": "do.png",
+      "FLAG": "do2.png",
       "ServerIP": "investors.spotify.com",
       "CheckUser": "http://",
       "ServerPort": "22",
@@ -60,7 +60,7 @@
     {
       "Name": "orange",
       "TYPE": "premium",
-      "FLAG": "do.png",
+      "FLAG": "a.png",
       "ServerIP": "198.98.61.84",
       "CheckUser": "http://",
       "ServerPort": "80",
@@ -70,7 +70,7 @@
     },{
       "Name": "orange2 papu 🇩🇴",
       "TYPE": "premium",
-      "FLAG": "do.png",
+      "FLAG": "4G.png",
       "ServerIP": "www.speedtest.net",
       "CheckUser": "http://",
       "ServerPort": "80",
@@ -121,7 +121,7 @@
       "Info": "Direct"
     },
     {
-      "Name": "orange",
+      "Name": "orange 🇩🇴",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host:v2.gliranzo.online[lf]Connection: Upgrade[lf]User-Agent: [lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
@@ -129,8 +129,9 @@
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Direct"
-    },{
-      "Name": "Charlis orange papu 🇩🇴",
+    },
+{
+      "Name": "Orange 1 papu 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host: papu.papuchord.store[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
