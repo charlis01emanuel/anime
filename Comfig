@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "Charlis CLARO 1 REDES 🇩🇴",
+      "Name": "CLARO 1 REDES 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do.png",
       "ServerIP": "investors.spotify.com",
@@ -25,7 +25,7 @@
       "PASS": "tupopo"
     },
     {
-      "Name": "Charlis CLARO 2 REDES 7 dias 🇩🇴",
+      "Name": "CLARO 2 REDES 7 dias 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do1.png",
       "ServerIP": "investors.spotify.com",
@@ -36,7 +36,7 @@
       "PASS": "12345678"
     },
     {
-      "Name": "Charlis CLARO 3 REDES 7 dias 🇩🇴",
+      "Name": "CLARO 3 REDES 7 dias 🇩🇴",
       "TYPE": "premium",
       "FLAG": "re.png",
       "ServerIP": "investors.spotify.com",
@@ -82,7 +82,7 @@
   ],
   "Networks": [
     {
-      "Name": "Charlis CLARO 1 REDES 🇩🇴",
+      "Name": "CLARO 1 REDES 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "us1.sshws.net",
@@ -92,7 +92,7 @@
       "Info": "Direct"
     },
     {
-      "Name": "Charlis CLARO 2 REDES 7 dias 🇩🇴",
+      "Name": "CLARO 2 REDES 7 dias 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "us1.sshws.net",
@@ -102,7 +102,7 @@
       "Info": "Direct"
     },
     {
-      "Name": "Charlis CLARO 3 REDES 7 dias 🇩🇴",
+      "Name": "CLARO 3 REDES 7 dias 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: at1.wscom.pro[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "at1.wscom.pro",
