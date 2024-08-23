@@ -1,5 +1,5 @@
 {
-  "Version": "4.0",
+  "Version": "4.1",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -78,6 +78,17 @@
       "SSLPort": "443",
       "USER": "papu",
       "PASS": "tupapa"
+    },
+    {
+      "Name": "Orange 3 🇩🇴",
+      "TYPE": "premium",
+      "FLAG": "4G.png",
+      "ServerIP": "www.speedtest.net",
+      "CheckUser": "http://",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "opentunnel.net-goodn",
+      "PASS": "12345678"
     }
   ],
   "Networks": [
@@ -135,6 +146,16 @@
       "Name": "Orange 2 papu 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host: papu.papuchord.store[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "Orange 3 🇩🇴",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host:lus-2.optnl.com[lf]Connection: Upgrade[lf]User-Agent: [lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "",
