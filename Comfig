@@ -155,7 +155,7 @@
     {
       "Name": "Orange 3 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host:lus-2.optnl.com[lf]Connection: Upgrade[lf]User-Agent: [lf]Upgrade: websocket[lf][lf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf][crlf]GET / HTTP/1.1[crlf]Host: lus-2.optnl.com[lf]Connection: Upgrade[lf]User-Agent: [lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "",
