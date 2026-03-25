@@ -1,6 +1,6 @@
 {
-  "Version": "9",
-  "ReleaseNotes": "CHARLIS LTE FIXED FULL",
+  "Version": "10",
+  "ReleaseNotes": "CHARLIS LTE FINAL SIN PROXY",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "CheckUser": "true",
 
@@ -52,8 +52,6 @@
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: uss-1.optnl.com[crlf][crlf]",
       "SNI": "uss-1.optnl.com",
-      "ProxyIP": "",
-      "ProxyPort": "",
       "Info": "Direct"
     },
     {
@@ -61,8 +59,6 @@
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: uss-1.optnl.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
       "SNI": "uss-1.optnl.com",
-      "ProxyIP": "",
-      "ProxyPort": "",
       "Info": "WebSocket"
     },
     {
@@ -70,8 +66,6 @@
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: afpcrecer.com.do[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
       "SNI": "afpcrecer.com.do",
-      "ProxyIP": "",
-      "ProxyPort": "",
       "Info": "BugHost"
     },
     {
@@ -79,8 +73,6 @@
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: at1.wscom.pro[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
       "SNI": "at1.wscom.pro",
-      "ProxyIP": "",
-      "ProxyPort": "",
       "Info": "WebSocket"
     },
     {
@@ -88,8 +80,6 @@
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
       "SNI": "www.speedtest.net",
-      "ProxyIP": "",
-      "ProxyPort": "",
       "Info": "WebSocket"
     }
   ]
