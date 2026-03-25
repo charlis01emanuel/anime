@@ -1,5 +1,5 @@
 {
-  "Version": "5.9",
+  "Version": "5.1",
   "ReleaseNotes": "CHARLIS LTE",
   "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "Sms": "",
@@ -105,8 +105,8 @@
     {
       "Name": "CLARO 2 REDES 7 dias 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: uss-1.optnl.com[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "afpcrecer.com.do",
+      "Payload": "GET / HTTP/1.1[crlf]Host: afpcrecer.com.do[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "uss-1.optnl.com",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
