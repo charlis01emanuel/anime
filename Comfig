@@ -1,6 +1,7 @@
 {
-  "Version": "6",
-  "ReleaseNotes": "CHARLIS LTE FINAL FIX SIN ERRORES",
+  "Version": "9",
+  "ReleaseNotes": "CHARLIS LTE FIXED FULL",
+  "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
   "CheckUser": "true",
 
   "Udp": [
@@ -11,7 +12,7 @@
 
   "Servers": [
     {
-      "Name": "CLARO OPEN 1 🇩🇴",
+      "Name": "CLARO PRINCIPAL 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do.png",
       "ServerIP": "uss-1.optnl.com",
@@ -22,7 +23,7 @@
       "PASS": "12345678"
     },
     {
-      "Name": "CLARO OPEN 2 🇩🇴",
+      "Name": "CLARO BACKUP 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do1.png",
       "ServerIP": "uss-1.optnl.com",
@@ -74,6 +75,15 @@
       "Info": "BugHost"
     },
     {
+      "Name": "CLARO WS ALT 🇩🇴",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: at1.wscom.pro[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
+      "SNI": "at1.wscom.pro",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "WebSocket"
+    },
+    {
       "Name": "ORANGE WS 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
@@ -81,15 +91,6 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "WebSocket"
-    },
-    {
-      "Name": "ORANGE BUG 🇩🇴",
-      "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: papu.papuchord.store[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "papu.papuchord.store",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "BugHost"
     }
   ]
 }
