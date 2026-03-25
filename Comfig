@@ -21,25 +21,25 @@
       "CheckUser": "http://",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "fastssh.com-popo",
-      "PASS": "tupopo"
+      "USER": "opentunnel.net-momo",
+      "PASS": "12345678"
     },
     {
       "Name": "CLARO 2 REDES 7 dias 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do1.png",
-      "ServerIP": "investors.spotify.com",
+      "ServerIP": "afpcrecer.com.do",
       "CheckUser": "http://",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "fastssh.com-kloquo",
+      "USER": "opentunnel.net-momo",
       "PASS": "12345678"
     },
     {
       "Name": "CLARO 3 REDES 7 dias 🇩🇴",
       "TYPE": "premium",
       "FLAG": "re.png",
-      "ServerIP": "investors.spotify.com",
+      "ServerIP": "afpcrecer.com.do",
       "CheckUser": "http://",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -95,8 +95,8 @@
     {
       "Name": "CLARO 1 REDES 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "us1.sshws.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: uss-1.optnl.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "uss-1.optnl.com",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
@@ -105,8 +105,8 @@
     {
       "Name": "CLARO 2 REDES 7 dias 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "us1.sshws.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: uss-1.optnl.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "afpcrecer.com.do",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
