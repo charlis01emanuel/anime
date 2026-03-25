@@ -1,42 +1,39 @@
 {
-  "Version": "7",
-  "ReleaseNotes": "CHARLIS LTE FIXED",
-  "UrlUpdate": "https://raw.githubusercontent.com/charlis01emanuel/anime/main/Comfig",
-  "Sms": "",
-  "EmailFeedback": "",
-  "UrlContato": "",
-  "UrlTermos": "",
+  "Version": "8",
+  "ReleaseNotes": "CHARLIS LTE FULL FIX",
   "CheckUser": "true",
+
   "Udp": [
     {
       "Porta": "7300"
     }
   ],
+
   "Servers": [
     {
-      "Name": "CLARO 1 🇩🇴",
+      "Name": "CLARO OPEN 1 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do.png",
-      "ServerIP": "afpcrecer.com.do",
-      "CheckUser": "http://afpcrecer.com.do",
+      "ServerIP": "uss-1.optnl.com",
+      "CheckUser": "http://uss-1.optnl.com",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "opentunnel.net-momo",
       "PASS": "12345678"
     },
     {
-      "Name": "CLARO 2 🇩🇴",
+      "Name": "CLARO OPEN 2 🇩🇴",
       "TYPE": "premium",
       "FLAG": "do1.png",
-      "ServerIP": "afpcrecer.com.do",
-      "CheckUser": "http://afpcrecer.com.do",
+      "ServerIP": "uss-1.optnl.com",
+      "CheckUser": "http://uss-1.optnl.com",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "sshocean-miguel80",
       "PASS": "12345678"
     },
     {
-      "Name": "ORANGE 1 🇩🇴",
+      "Name": "ORANGE SERVER 🇩🇴",
       "TYPE": "premium",
       "FLAG": "4G.png",
       "ServerIP": "198.98.61.84",
@@ -47,36 +44,52 @@
       "PASS": "123456u8"
     }
   ],
+
   "Networks": [
     {
       "Name": "CLARO DIRECT 🇩🇴",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: afpcrecer.com.do[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
-      "SNI": "afpcrecer.com.do",
-      "TlsIP": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: uss-1.optnl.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+      "SNI": "uss-1.optnl.com",
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Direct"
     },
     {
-      "Name": "CLARO WS 🇩🇴",
+      "Name": "CLARO BUG AFP 🇩🇴",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: afpcrecer.com.do[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
+      "SNI": "afpcrecer.com.do",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "BugHost"
+    },
+    {
+      "Name": "CLARO WS OPTNL 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: uss-1.optnl.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
       "SNI": "uss-1.optnl.com",
-      "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "WebSocket"
     },
     {
-      "Name": "ORANGE WS 🇩🇴",
+      "Name": "ORANGE WS SPEEDTEST 🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.speedtest.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
       "SNI": "www.speedtest.net",
-      "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "WebSocket"
+    },
+    {
+      "Name": "ORANGE BUG PAPU 🇩🇴",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: papu.papuchord.store[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "papu.papuchord.store",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "BugHost"
     }
   ]
 }
