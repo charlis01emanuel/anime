@@ -109,7 +109,7 @@
       "Name": "CLARO 2 afp🇩🇴",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: afpcrecer.com.do[crlf][crlf]X / HTTP/1.1[crlf]Host: afpcrecer.com.do[crlf][crlf]GET / HTTP/1.1[crlf]Host: [rotate=uss-1.optnl.com][crlf]Upgrade: websocket[crlf]Referer: https://afpcrecer.com.do[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Connection: Upgrade[crlf][crlf]",
-      "SNI": "afpcrecer.com.do",
+      "SNI": "",
       "TlsIP": "",
       "ProxyIP": "afpcrecer.com.do",
       "ProxyPort": "80",
